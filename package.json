@@ -1,6 +1,6 @@
 {
   "name": "pickpick-utils-type",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/index.ts",
   "types": "lib/index.ts",

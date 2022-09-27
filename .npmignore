@@ -1,3 +1,5 @@
 __tests__
 tsconfig.json
 node_modules
+README.md
+babel.config.json
